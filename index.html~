@@ -22,9 +22,9 @@
 
 <!-- =======================================================
     Theme Name: iGnite
-    Theme URL: https://bootstrapmade.com/iGnite-free-onepage-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
+    Theme URL: 
+    Author: 
+    Author URL: 
 ======================================================= -->
 </head>
 <body>
@@ -71,22 +71,22 @@
 							<ul class="slides">
 								<li>
 								<p class="home-slide-content">
-								Equipping <strong>next gen</strong>
+								Equipped with <strong>Energy</strong>
 								</p>
 								</li>
 								<li>
 								<p class="home-slide-content">
-								<strong>creative</strong> and imagination
+								<strong>Energize</strong> the world
 						</p>
 						</li>
 						<li>
 						<p class="home-slide-content">
-							problem vs <strong>solution</strong>
+							enlightened with <strong>Energy</strong>
 						</p>
 						</li>
 						<li>
 						<p class="home-slide-content">
-							We love <strong>electronics</strong>
+							We love <strong>Energy</strong>
 						</p>
 						</li>						
 					</ul>
@@ -97,9 +97,6 @@
 	</div>
 </div>
 	<header class="clearfix">
-	
-	
-	
 	
 	
 	
@@ -229,25 +226,7 @@
 	<h4>Sponsorship</h4>
 	<!-- portfolio filter -->
 	<div class="row">
-		<div id="filters" class="span12">
-			<ul class="clearfix">
-				<li><a href="#" data-filter="*" class="active">
-				<h5>All</h5>
-				</a></li>
-				<li><a href="#" data-filter=".web">
-				<h5>Web</h5>
-				</a></li>
-				<li><a href="#" data-filter=".print">
-				<h5>Print</h5>
-				</a></li>
-				<li><a href="#" data-filter=".design">
-				<h5>Design</h5>
-				</a></li>
-				<li><a href="#" data-filter=".photography">
-				<h5>Photography</h5>
-				</a></li>
-			</ul>
-		</div>
+		
 		<!-- END PORTFOLIO FILTERING -->
 	</div>
 	<div class="row">
@@ -430,26 +409,27 @@
 	<h4>Events</h4>
 	<!-- Three columns -->
 	<div class="row">
-		<div class="span3">
+		<div class="span4">
 			<div class="home-post">
 				<div class="post-image">
 					<img class="max-img" src="img/blog/img1.jpg" alt="" />
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span class="date">June 19, 2013</span>
+					<span><strong>Paper Presentaion</strong></span>
+					<span><a href="#">Design</a><a href="#">Design</a></span>
 					<span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span>
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">Event-1</a></strong></h5>
+					<h5><strong><a href="#">Paper Presentation</a></strong></h5>
 					<p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry. &hellip;
+						Ingenious Paper
 					</p>
-					<a href="#" class="more">Read more</a>
+					
 				</div>
 			</div>
 		</div>
-		<div class="span3">
+		<div class="span4">
 			<div class="home-post">
 				<div class="post-image">
 					<img class="max-img" src="img/blog/img2.jpg" alt="" />
@@ -467,8 +447,29 @@
 					<a href="#" class="more">Read more</a>
 				</div>
 			</div>
-		</div>
-		<div class="span3">
+		</div>	
+		<div class="span4">
+			<div class="home-post">
+				<div class="post-image">
+					<img class="max-img" src="img/blog/img2.jpg" alt="" />
+				</div>
+				<div class="post-meta">
+					<i class="icon-file icon-2x"></i>
+					<span class="date">June 19, 2013</span>
+					<span class="tags"><a href="#">Design</a>, <a href="#">News</a></span>
+				</div>
+				<div class="entry-content">
+					<h5><strong><a href="#">Event 2</a></strong></h5>
+					<p>
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry. &hellip;
+					</p>
+					<a href="#" class="more">Read more</a>
+				</div>
+			</div>
+		</div>	
+	</div>
+	<div class="row">
+	<div class="span4">
 			<div class="home-post">
 				<div class="post-image">
 					<img class="max-img" src="img/blog/img3.jpg" alt="" />
@@ -487,7 +488,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="span3">
+		<div class="span4">
 			<div class="home-post">
 				<div class="post-image">
 					<img class="max-img" src="img/blog/img4.jpg" alt="" />
@@ -506,6 +507,27 @@
 				</div>
 			</div>
 		</div>
+		<div class="span4">
+			<div class="home-post">
+				<div class="post-image">
+					<img class="max-img" src="img/blog/img2.jpg" alt="" />
+				</div>
+				<div class="post-meta">
+					<i class="icon-file icon-2x"></i>
+					<span class="date">June 19, 2013</span>
+					<span class="tags"><a href="#">Design</a>, <a href="#">News</a></span>
+				</div>
+				<div class="entry-content">
+					<h5><strong><a href="#">Event 2</a></strong></h5>
+					<p>
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry. &hellip;
+					</p>
+					<a href="#" class="more">Read more</a>
+				</div>
+			</div>
+		</div>	
+	
+	
 	</div>
 	<div class="blankdivider30"></div>
 	<div class="aligncenter">
@@ -541,15 +563,15 @@
 <div class="container clearfix" align="center">
 	<h1>Registration and Accommodation</h1><br>
 	<h2>IMPORTANT DATES</h2>
-	<h2>Last date for registration - 10/04/2016</h2><br>
+	<h2>Last date for registration - 08/04/2017</h2><br>
 	<h1><a href="">Energeia'17 Registration here</a></h1><br>
 	<h1>REGISTRATION FEE</h1>
-	<h2>200 for students<br>
-			300 for others<br>
-			Mode of payment: Cash-on spot</h2><br>
-	<h1>Accommodation will be provided on requisition and paid basis</h1><br>
+	<h3>INR 200 for students<br>
+			INR 300 for others<br>
+			Mode of payment: Cash-on spot</h3><br>
+	<h3>Accommodation will be provided on requisition and paid basis</h3><br>
 	<h1>VENUE : DEPARTMENT OF ENERGY AND ENVIRONMENT (DEE), NIT TRICHY</h1>
-	<h2>DATE : APRIL 16, 2016</h2>
+	<h2>DATE : APRIL 8, 2017</h2>
 	<h2>TIME : 9:00 AM to 5:30 PM </h2>
 
 
@@ -716,45 +738,31 @@
 <!-- end spacer section -->
 <!-- section: contact -->
 <section id="contact" class="section green">
-<div class="container">
-	<h4>Get in Touch</h4>
+	<div class="container">
+		<h4>Get in Touch</h4>
 	
-	<div class="blankdivider30">
-	</div>
-	<div class="row">
-		<div class="span12">
+		<div class="row">
 		
-				
-               
-					<div class="row">
 						<div class="span6">
-							
-							
-							<i class="fa  fa-address-book-o fa-2x"> someone</i><br><br>
+						<i class="fa  fa-address-book-o fa-2x"></i>someone<br><br>
 							<i class="fa fa-phone fa-2x"> 90000 00000</i><br><br>
 							<i class="fa fa-envelope fa-2x"> some_email@some.org</i>
 						</div>
 							
 						
 						<div class="span6">
-							<i class="fa fa-address-book-o fa-2x"> someone</i><br><br>
-							<i class="fa fa-phone fa-2x"> 90000 00000</i><br><br>
-							<i class="fa fa-envelope fa-2x"> some_email@some.org</i>
+							<i class="fa fa-address-book-o fa-2x"> </i>someone<br><br>
+							<i class="fa fa-phone fa-2x"></i><strong> +91 90000 00000</strong><br><br>
+							<i class="fa fa-envelope"></i><strong><strong>some_email@some.org</strong></strong>
 						</div>
-					</div>
-				
-				
-			</div>
 		</div>
-		<!-- ./span12 -->
 	</div>
-</div>
+	
 </section>
 <footer>
-<div class="container">
-	<div class="row">
-		<div class="span6 offset3">
-			
+
+	
+			made with <i class="fa  fa-heart fa"> <a href="aaru_swartz.gitlab.io">aaru_swartz</a></i><br>
                 <div class="credits">
                     <!-- 
                         All the links in the footer should remain intact. 
@@ -765,10 +773,9 @@
                     <!--a href="https://bootstrapmade.com/">Free Bootstrap Themes</a> by BootstrapMade.com-->
                     <!--a href="https://bootstrapmade.com/">Free Bootstrap Themes</a> by BootstrapMade.com-->
                 </div>
-			</p>
-		</div>
-	</div>
-</div>
+			
+	
+
 <!-- ./container -->
 </footer>
 <a href="#" class="scrollup"><i class="icon-angle-up icon-square icon-bgdark icon-2x"></i></a>
