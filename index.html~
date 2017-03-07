@@ -417,13 +417,13 @@
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
 					<span><strong>Paper Presentaion</strong></span>
-					<span><a href="#">Design</a><a href="#">Design</a></span>
-					<span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span>
+					<span><a href="#">Register here</a></span>
+					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">Paper Presentation</a></strong></h5>
+					<h5><strong><a href="#">Ingenious Paper</a></strong></h5>
 					<p>
-						Ingenious Paper
+						
 					</p>
 					
 				</div>
@@ -436,11 +436,11 @@
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span class="date">June 19, 2013</span>
-					<span class="tags"><a href="#">Design</a>, <a href="#">News</a></span>
+					<span class="date">Skit</span>
+					<span class="tags"><a href="#">Register here</a></span>
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">Event 2</a></strong></h5>
+					<h5><strong><a href="#">EN(ergy)ACT</a></strong></h5>
 					<p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry. &hellip;
 					</p>
@@ -455,13 +455,13 @@
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span class="date">June 19, 2013</span>
+					<span class="date">Debate</span>
 					<span class="tags"><a href="#">Design</a>, <a href="#">News</a></span>
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">Event 2</a></strong></h5>
+					<h5><strong><a href="#">ENERGetic Parliment</a></strong></h5>
 					<p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry. &hellip;
+						Now its your turn to help shap the debate.
 					</p>
 					<a href="#" class="more">Read more</a>
 				</div>
@@ -476,13 +476,15 @@
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span class="date">June 22, 2013</span>
+					<span class="date">Advertisement</span>
 					<span class="tags"><a href="#">Design</a>, <a href="#">Tips</a></span>
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">Event 3</a></strong></h5>
+					<h5><strong><a href="#">ad</a></strong></h5>
 					<p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry. &hellip;
+						Energy can neither be created<br>
+						nor be destroyed<br>
+						but can be sold<br>
 					</p>
 					<a href="#" class="more">Read more</a>
 				</div>
@@ -495,13 +497,13 @@
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span class="date">June 27, 2013</span>
+					<span class="date">Poster Presentation</span>
 					<span class="tags"><a href="#">News</a>, <a href="#">Tutorial</a></span>
 				</div>
 				<div class="entry-content">
 					<h5><strong><a href="#">Event 4</a></strong></h5>
 					<p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry. &hellip;
+						result is WONDER when SCIENCE & ART merges.
 					</p>
 					<a href="#" class="more">Read more</a>
 				</div>
@@ -514,7 +516,7 @@
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span class="date">June 19, 2013</span>
+					<span class="date">Real Time Solution</span>
 					<span class="tags"><a href="#">Design</a>, <a href="#">News</a></span>
 				</div>
 				<div class="entry-content">
@@ -762,7 +764,7 @@
 <footer>
 
 	
-			made with <i class="fa  fa-heart fa"> <a href="aaru_swartz.gitlab.io">aaru_swartz</a></i><br>
+			made with <i class="fa  fa-heart fa"> by <a href="http://aaru_swartz.gitlab.io">aaru_swartz</a></i><br>
                 <div class="credits">
                     <!-- 
                         All the links in the footer should remain intact. 

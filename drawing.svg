@@ -43,7 +43,7 @@
        fx="528.84351"
        fy="690.63049"
        r="524.71729"
-       gradientTransform="matrix(1.1204871,0.00345736,-0.00185877,0.46200326,-129.12735,394.29071)"
+       gradientTransform="matrix(1.0357096,-0.10814768,0.04569128,0.43896441,-48.434014,448.78774)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -54,7 +54,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7270582"
-     inkscape:cx="456.21949"
+     inkscape:cx="531.69054"
      inkscape:cy="358.29319"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -94,13 +94,16 @@
      id="layer1"
      transform="translate(0,-308.26772)">
     <rect
-       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7044"
-       width="1094.823"
-       height="664.32098"
-       x="-15.129463"
-       y="361.90854"
-       ry="2.94666" />
+       style="opacity:0.98999999;fill:url(#radialGradient7068);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6248"
+       width="1057.687"
+       height="462.46439"
+       x="2.0064924"
+       y="463.52454"
+       ry="2.9466567"
+       inkscape:export-xdpi="68.588203"
+       inkscape:export-ydpi="68.588203"
+       inkscape:export-filename="/home/bala/Documents/nit_trichy_site/img/logo.png" />
     <image
        y="461.15417"
        x="24.841854"
@@ -113,17 +116,5 @@
        inkscape:export-xdpi="68.588203"
        inkscape:export-ydpi="68.588203"
        inkscape:export-filename="/home/bala/Documents/nit_trichy_site/img/logo.png" />
-    <rect
-       style="opacity:0.98999999;fill:url(#radialGradient7068);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6248"
-       width="1151.2146"
-       height="462.46439"
-       x="-113.4561"
-       y="483.96045"
-       ry="2.9466567"
-       inkscape:export-xdpi="68.588203"
-       inkscape:export-ydpi="68.588203"
-       inkscape:export-filename="/home/bala/Documents/nit_trichy_site/img/logo.png"
-       transform="matrix(0.99908362,-0.04280098,0.04280098,0.99908362,0,0)" />
   </g>
 </svg>
