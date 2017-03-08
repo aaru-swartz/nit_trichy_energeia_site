@@ -494,7 +494,7 @@
 		<div class="span4">
 			<div class="home-post">
 				<div class="post-image">
-					<img class="max-img" src="img/blog/poster.jpg" alt="" />
+					<img class="max-img" src="img/blog/poster.png" alt="" />
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
@@ -748,16 +748,16 @@
 		<div class="row">
 		
 						<div class="span6">
-						<i class="fa  fa-address-book-o fa-2x"></i>someone<br><br>
-							<i class="fa fa-phone fa-2x"> 90000 00000</i><br><br>
-							<i class="fa fa-envelope fa-2x"> some_email@some.org</i>
+						<i class="fa  fa-address-book-o fa-2x"></i> Joel Titus.J<br><br>
+							<i class="fa fa-phone fa-2x"></i><strong> +91 90039 79237</strong><br><br>
+							<i class="fa fa-envelope fa-2x"></i><strong> energeia17@gmail.com</strong>
 						</div>
 							
 						
 						<div class="span6">
-							<i class="fa fa-address-book-o fa-2x"> </i>someone<br><br>
-							<i class="fa fa-phone fa-2x"></i><strong> +91 90000 00000</strong><br><br>
-							<i class="fa fa-envelope"></i><strong><strong>some_email@some.org</strong></strong>
+							<i class="fa fa-address-book-o fa-2x"> </i> Muthiah.G<br><br>
+							<i class="fa fa-phone fa-2x"></i><strong> +91 96265 11395</strong><br><br>
+							<i class="fa fa-envelope"></i><strong><strong> energeia17@gmail.com</strong></strong>
 						</div>
 		</div>
 	</div>
