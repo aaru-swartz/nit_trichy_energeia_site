@@ -567,17 +567,7 @@
 <section id="reg" class="section">
 <div class="container clearfix" align="center">
 	<h1>Registration and Accommodation</h1><br>
-	<!--h2>IMPORTANT DATES</h2>
-	<h2>Last date for registration - 08/04/2017</h2><br>
-	<h1><a href="">Energeia'17 Registration here</a></h1><br>
-	<h1>REGISTRATION FEE</h1>
-	<h3>INR 200 for students<br>
-			INR 300 for others<br>
-			Mode of payment: Cash-on spot</h3><br>
-	<h3>Accommodation will be provided on requisition and paid basis</h3><br>
-	<h1>VENUE : DEPARTMENT OF ENERGY AND ENVIRONMENT (DEE), NIT TRICHY</h1>
-	<h2>DATE : APRIL 8, 2017</h2>
-	<h2>TIME : 9:00 AM to 5:30 PM </h2-->
+	<h2><a href="">Energeia'17 Registration here</a></h2>
 	<div class="row">
 		<div class="span6">
 			<div class="home-post">
@@ -589,10 +579,8 @@
 				<div class="entry-content">
 					<h5><strong>Last date for Registration</strong></h5>
 					<h5><strong><a href="#">08/04/2017</a></strong></h5>
-					<p>
-						
-					</p>
-					
+					<br>
+									
 				</div>
 			</div>
 		</div>
@@ -604,20 +592,35 @@
 					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
 				</div>
 				<div class="entry-content">
-					<h5><strong>INR 200 for students</strong></h5>
-					<h5>INR 300 for other</h5>
-					<h5>mode of payment: cash on spot</h5>
-					<p>
-						
-					</p>
+					<h5>INR <strong>200</strong> for students</h5>
+					<h5>INR <strong>300</strong> for others</h5>
+					<h5>mode of payment: <strong>cash on spot</strong></h5>
 					
 				</div>
 			</div>
 		</div>
 		
 	</div>
+	
 
 <!--end of row div-->
+	
+	<h3>Accommodation will be provided on requisition and paid basis</h3>
+	
+		<div class="span12">
+			<div class="home-post">
+				
+				<div class="post-meta">
+					<h3>Venue Details</h3>
+					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
+				</div>
+				<div class="entry-content">
+					<h5>Department of Energy and Environment (DEE). NIT TRICHY</h5>
+					<h5>Date : April 8. 2017</h5>
+					<h5>Time : 9:00 AM to 5:30 PM</h5>				
+				</div>
+			</div>
+		</div>
 	
 	
 	<div class="row">
