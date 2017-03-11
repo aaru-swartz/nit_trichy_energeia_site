@@ -432,8 +432,8 @@
 		</div>
 		<div class="span4">
 			<div class="home-post">
-				<div class="post-image">
-					<img class="max-img" src="img/blog/img2.jpg" alt="" />
+				<div class="post-image" align="center">
+					<img class="max-img" src="img/blog/Skit.gif" alt="" />
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
@@ -567,7 +567,7 @@
 <section id="reg" class="section">
 <div class="container clearfix" align="center">
 	<h1>Registration and Accommodation</h1><br>
-	<h2>IMPORTANT DATES</h2>
+	<!--h2>IMPORTANT DATES</h2>
 	<h2>Last date for registration - 08/04/2017</h2><br>
 	<h1><a href="">Energeia'17 Registration here</a></h1><br>
 	<h1>REGISTRATION FEE</h1>
@@ -577,11 +577,49 @@
 	<h3>Accommodation will be provided on requisition and paid basis</h3><br>
 	<h1>VENUE : DEPARTMENT OF ENERGY AND ENVIRONMENT (DEE), NIT TRICHY</h1>
 	<h2>DATE : APRIL 8, 2017</h2>
-	<h2>TIME : 9:00 AM to 5:30 PM </h2>
+	<h2>TIME : 9:00 AM to 5:30 PM </h2-->
+	<div class="row">
+		<div class="span6">
+			<div class="home-post">
+				
+				<div class="post-meta">
+					<h3>Important Dates</h3>
+					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
+				</div>
+				<div class="entry-content">
+					<h5><strong>Last date for Registration</strong></h5>
+					<h5><strong><a href="#">08/04/2017</a></strong></h5>
+					<p>
+						
+					</p>
+					
+				</div>
+			</div>
+		</div>
+		<div class="span6">
+			<div class="home-post">
+				
+				<div class="post-meta">
+					<h3>Registration Fee</h3>
+					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
+				</div>
+				<div class="entry-content">
+					<h5><strong>INR 200 for students</strong></h5>
+					<h5>INR 300 for other</h5>
+					<h5>mode of payment: cash on spot</h5>
+					<p>
+						
+					</p>
+					
+				</div>
+			</div>
+		</div>
+		
+	</div>
 
-
-
-
+<!--end of row div-->
+	
+	
 	<div class="row">
 		<div class="span12">
 			<div id="portfolio-wrap">
@@ -750,19 +788,19 @@
 		
 						<div class="span4">
 							<i class="fa  fa-address-book-o"></i>  Joel Titus.J<br><br>
-							<i class="fa fa-phone fa-2x"></i><strong> +91 90039 79237</strong><br><br>
+							<i class="fa fa-phone"></i><strong> +91 90039 79237</strong><br><br>
 							
 						</div>
 							
 						<div class="span4">
 							<i class="fa fa-address-book-o"> </i>  Muthiah.G<br><br>
-							<i class="fa fa-phone fa-2x"></i><strong> +91 96265 11395</strong><br><br>
-							<i class="fa fa-envelope fa-2x"></i><strong> energeia17@gmail.com</strong>
+							<i class="fa fa-phone"></i><strong> +91 96265 11395</strong><br><br>
+							<i class="fa fa-envelope"></i><strong> energeia17@gmail.com</strong>
 							
 						</div>
 						<div class="span4">
 							<i class="fa fa-address-book-o"> </i>  Mahesh.S<br><br>
-							<i class="fa fa-phone fa-2x"></i><strong> +91 94976 79458</strong><br><br>
+							<i class="fa fa-phone"></i><strong> +91 94976 79458</strong><br><br>
 							
 						</div>
 						
