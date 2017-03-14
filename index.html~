@@ -418,11 +418,13 @@
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
 					<span><strong>Paper Presentaion</strong></span>
-					<span><a href="#">Register here</a></span>
+					
 					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
 				</div>
 				<div class="entry-content">
 					<h5><strong><a href="#">Ingenious Paper</a></strong></h5>
+					<h5><strong>A </strong>bst<strong> R </strong>ac<strong> T </strong> </h5>
+					<h5>Why your topic is important?</h5>
 					<p>
 						
 					</p>
@@ -430,22 +432,51 @@
 				</div>
 			</div>
 		</div>
-		<div class="span4">
+		<div class="span4" data-toggle="modal" data-target="#myModal">
+		<!-- Modal -->
+  					<div class="modal fade" id="myModal" role="dialog">
+   	 				<div class="modal-dialog">
+    	
+      				<!-- Modal content-->
+      					<div class="modal-content">
+        						<div class="modal-header">
+          						<button type="button" class="close" data-dismiss="modal">&times;</button>
+          						<h4 class="modal-title">Poster Presentation</h4>
+        						</div>
+        						<div class="modal-body">
+          						<p>Some text in the modal.</p>
+        						</div>
+        						<div class="modal-footer">
+          						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        						</div>
+      					</div>
+      
+    					</div>
+  					</div>	
+  					<!--Modal end>
 			<div class="home-post">
 				<div class="post-image" align="center">
-					<img class="max-img" src="img/blog/Skit.gif" alt="" />
+					<img class="max-img" src="img/blog/skit.png" alt="" />
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
 					<span><strong>Skit</strong></span>
-					<span class="tags"><a href="#">Register here</a></span>
+					
+					
+					
+  									
+					
+					
+					
+					
+					
+					
 				</div>
 				<div class="entry-content">
 					<h5><strong><a href="#">EN(ergy)ACT</a></strong></h5>
-					<p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry. &hellip;
-					</p>
-					<a href="#" class="more">Read more</a>
+					<br>
+					<h5>Actions speak better then words</h5>
+					
 				</div>
 			</div>
 		</div>	
@@ -456,16 +487,38 @@
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span><strong>Debate</strong></span>
-					<span><strong></strong></span>
-					<span class="tags"><a href="#">Design</a>, <a href="#">News</a></span>
+					
+					 <!-- Trigger the modal with a button -->
+  					<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Debate</button>
+
+  					<!-- Modal -->
+  					<div class="modal fade" id="myModal" role="dialog">
+   	 				<div class="modal-dialog">
+    	
+      				<!-- Modal content-->
+      					<div class="modal-content">
+        						<div class="modal-header">
+          						<button type="button" class="close" data-dismiss="modal">&times;</button>
+          						<h4 class="modal-title">Debate</h4>
+        						</div>
+        						<div class="modal-body">
+          						<p>Some text in the modal.</p>
+        						</div>
+        						<div class="modal-footer">
+          						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        						</div>
+      					</div>
+      
+    					</div>
+  					</div>					
+					
+					
+					
+					
 				</div>
 				<div class="entry-content">
 					<h5><strong><a href="#">ENERGetic Parliment</a></strong></h5>
-					<p>
-						Now its your turn to help shap the debate.
-					</p>
-					<a href="#" class="more">Read more</a>
+					<h5>Now its your turn to help shape the <strong>Debate</strong>.</h5>
 				</div>
 			</div>
 		</div>	
@@ -479,19 +532,46 @@
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
 					<span><strong>Advertisement</strong></span>
-					<span class="tags"><a href="#">Design</a>, <a href="#">Tips</a></span>
+					
+					 <!-- Trigger the modal with a button -->
+  					<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Advertisement</button>
+
+  					<!-- Modal -->
+  					<div class="modal fade" id="myModal" role="dialog">
+   	 				<div class="modal-dialog">
+    	
+      				<!-- Modal content-->
+      					<div class="modal-content">
+        						<div class="modal-header">
+          						<button type="button" class="close" data-dismiss="modal">&times;</button>
+          						<h4 class="modal-title">Advertisement</h4>
+        						</div>
+        						<div class="modal-body">
+          						<p>Some text in the modal.</p>
+        						</div>
+        						<div class="modal-footer">
+          						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        						</div>
+      					</div>
+      
+    					</div>
+  					</div>					
+					
+					
+					
+					
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">ad</a></strong></h5>
-					<p>
-						Energy can neither be created<br>
-						nor be destroyed<br>
-						but can be sold<br>
-					</p>
-					<a href="#" class="more">Read more</a>
+					
+					<h5>
+						<strong>Energy</strong> can neither be <strong>created</strong><br>
+						nor be <strong>destroyed</strong><br>
+						but can be <strong>sold</strong><br>
+					</h5>
 				</div>
 			</div>
 		</div>
+		
 		<div class="span4">
 			<div class="home-post">
 				<div class="post-image">
@@ -499,44 +579,109 @@
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span><strong>Poster Presentation</strong></span>
-					<span class="tags"><a href="#">News</a>, <a href="#">Tutorial</a></span>
-				</div>
+					
+					
+					
+ 					 <!-- Trigger the modal with a button -->
+  					<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Poster Presentation</button>
+
+  					<!-- Modal -->
+  					<div class="modal fade" id="myModal" role="dialog">
+   	 				<div class="modal-dialog">
+    	
+      				<!-- Modal content-->
+      					<div class="modal-content">
+        						<div class="modal-header">
+          						<button type="button" class="close" data-dismiss="modal">&times;</button>
+          						<h4 class="modal-title">Poster Presentation</h4>
+        						</div>
+        						<div class="modal-body">
+          						<p>Some text in the modal.</p>
+        						</div>
+        						<div class="modal-footer">
+          						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        						</div>
+      					</div>
+      
+    					</div>
+  					</div>					
+					
+					
+					
+					</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">Event 4</a></strong></h5>
-					<p>
-						result is WONDER when SCIENCE & ART merges.
-					</p>
-					<a href="#" class="more">Read more</a>
+					<h5>Result is <strong>WONDER </strong>when <strong>SCIENCE</strong> and <strong>ART</strong> merges.</h5>
+					
 				</div>
 			</div>
 		</div>
 		<div class="span4">
 			<div class="home-post">
 				<div class="post-image">
-					<img class="max-img" src="img/blog/img2.jpg" alt="" />
+					<img class="max-img" src="img/blog/problem_solution.png" alt="" />
+				</div>
+				<div class="post-meta">
+					<i class="icon-file icon-2x"></i>
+					
+					
+					 <!-- Trigger the modal with a button -->
+  					<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Real Time Solution</button>
+
+  					<!-- Modal -->
+  					<div class="modal fade" id="myModal" role="dialog">
+   	 				<div class="modal-dialog">
+    	
+      				<!-- Modal content-->
+      					<div class="modal-content">
+        						<div class="modal-header">
+          						<button type="button" class="close" data-dismiss="modal">&times;</button>
+          						<h4 class="modal-title">Real Time Solution</h4>
+        						</div>
+        						<div class="modal-body">
+          						<p>Some text in the modal.</p>
+        						</div>
+        						<div class="modal-footer">
+          						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        						</div>
+      					</div>
+      
+    					</div>
+  					</div>					
+					
+					
+					
+					
+				</div>
+				<div class="entry-content">
+					<h5>
+						Not everything that is faced can be changed but nothing can be charged 
+						until it is forced things turn out for people who make the best out of the way turn out.
+					</h5>
+				</div>
+			</div>
+		</div>	
+		<div class="span4">
+		</div>
+		<div class="span4">
+			<div class="home-post">
+				<div class="post-image">
+					<img class="max-img" src="img/blog/quiz.jpg" alt="" />
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
 					<span><strong>Real time Solution</strong></span>
-					<span class="tags"><a href="#">Design</a>, <a href="#">News</a></span>
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">Event 2</a></strong></h5>
-					<p>
-						Not everything that is faced can be changed but nothing can be charged 
-						until it is forced things turn out for people who make the best out of the way turn out.
-					</p>
-					<a href="#" class="more">Read more</a>
+					<h5>
+						We get stuck into the Internet and streaming information and its time to just unplug and look within
+					</h5>
 				</div>
 			</div>
-		</div>	
+		</div>
+		<div class="span4">
+		</div>
 	
 	
-	</div>
-	<div class="blankdivider30"></div>
-	<div class="aligncenter">
-		<a href="#" class="btn btn-large btn-theme">More blog post</a>
 	</div>
 </div>
 </section>
@@ -607,7 +752,7 @@
 	
 	<h3>Accommodation will be provided on requisition and paid basis</h3>
 	
-		<div class="span12">
+		<div class="span11">
 			<div class="home-post">
 				
 				<div class="post-meta">
