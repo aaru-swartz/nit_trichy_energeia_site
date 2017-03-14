@@ -61,7 +61,7 @@
 </div>
 
 <div id="content">
-  <div class="logo">
+  <div class="logo"><br><br><br>
 				<img src="img/logo.png" alt="" width="900" height="450"/>
 			</div>
 			<div class="container">
@@ -172,47 +172,70 @@
 	<div class="row">
 		<div class="span2 offset1 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-1.jpg" alt="" />
-				<h3>John Doe</h3>
-				<p>
-					Art director
-				</p>
+				<img class="team-thumb img-circle" src="img/team/chetan.jpg" alt="" />
+				<h3>Chetan</h3>
 			</div>
 		</div>
 		<div class="span2 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-2.jpg" alt="" />
-				<h3>Mike Doe</h3>
-				<p>
-					Web developer
-				</p>
+				<img class="team-thumb img-circle" src="img/team/kartik.jpg" alt="" />
+				<h3>Kartik</h3>
 			</div>
 		</div>
 		<div class="span2 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-3.jpg" alt="" />
-				<h3>Neil Doe</h3>
-				<p>
-					Web designer
-				</p>
+				<img class="team-thumb img-circle" src="img/team/ankit.jpg" alt="" />
+				<h3>Ankit</h3>
 			</div>
 		</div>
 		<div class="span2 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-4.jpg" alt="" />
-				<h3>Mark Joe</h3>
-				<p>
-					UI designer
-				</p>
+				<img class="team-thumb img-circle" src="img/team/amit.jpg" alt="" />
+				<h3>Amit</h3>
 			</div>
 		</div>
 		<div class="span2 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-5.jpg" alt="" />
-				<h3>Stephen B</h3>
-				<p>
-					Digital imaging
-				</p>
+				<img class="team-thumb img-circle" src="img/team/ajeet.jpg" alt="" />
+				<h3>Ajeet</h3>
+			</div>
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="span2 offset1 flyIn">
+			<div class="people">
+				<h3>Joel</h3>
+				<img class="team-thumb img-circle" src="img/team/joel.jpg" alt="" />
+				
+			</div>
+		</div>
+		<div class="span2 flyIn">
+			<div class="people">
+				<h3>Kiruba</h3>
+				<img class="team-thumb img-circle" src="img/team/kiruba.jpg" alt="" />
+				
+			</div>
+		</div>
+		<div class="span2 flyIn">
+			<div class="people">
+				<h3>Rinkal</h3>
+				<img class="team-thumb img-circle" src="img/team/rinkal.jpg" alt="" />
+				
+			</div>
+		</div>
+		<div class="span2 flyIn">
+			<div class="people">
+				<h3>Mahesh</h3>
+				<img class="team-thumb img-circle" src="img/team/mahesh.jpg" alt="" />
+				
+			</div>
+		</div>
+		<div class="span2 flyIn">
+			<div class="people">
+				<h3>Varun</h3>
+				<img class="team-thumb img-circle" src="img/team/varun.jpg" alt="" />
+				
 			</div>
 		</div>
 	</div>
@@ -511,7 +534,7 @@
 					
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">ENERGetic Parliment</a></strong></h5>
+					<h5><strong><a href="#">ENERGetic Parliament</a></strong></h5>
 					<h5>Now its your turn to help shape the <strong>Debate</strong>.</h5>
 				</div>
 			</div>
@@ -616,7 +639,7 @@
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					
+					<span><strong>Real Time Solution</strong></span>
 					
 				</div>
 				<div class="entry-content">
@@ -674,29 +697,45 @@
 <section id="workshop" class="section orange">
 <div class="container">
 	<h4>Workshops</h4>
+	
+	
 	<div class="row">
-		<div class="span4 offset1">
-			<div>
-				<h2>workshop list here...<strong>coming soon</strong></h2>
-				<p>
-					Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.
-				</p>
-			</div>
-		</div>
-		<div class="span6">
-			<div class="aligncenter">
-				<img src="img/android.png" />
+		<div class="span4">
+		
+			<div class="home-post">
+				<div class="post-meta">
+					<span><strong>Renewable Energy(Sola Energyr, Wind Energy, Fuel Cell Technology)</strong></span>
+					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
+				</div>
+				<div class="entry-content">
+					<h5><strong><a href="#">Ingenious Paper</a></strong></h5>
+					<h5><strong>A </strong>bst<strong> R </strong>ac<strong> T </strong> </h5>
+					<h5>Why your topic is important?</h5>
+					<p>
+						
+					</p>
+					
+				</div>
 			</div>
 		</div>
 	</div>
+	
+	
+	
+	
+	
+	
+	
 </div>
 </section>
 
 <!-- section: registration -->
 <section id="reg" class="section">
 <div class="container clearfix" align="center">
-	<h1>Registration and Accommodation</h1><br>
-	<h2><a href="">Energeia'17 Registration here</a></h2>
+	<h1>Registration and Accommodation</h1>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdLjmGBGM-AKxLuZmVjzsiDPkjoxbRQA31qmyCL2eImidrznA/viewform?usp=sf_link">
+		<button type="button" class="btn btn-danger">Energeia'17 Registration here</button><br><br>
+	</a>
 	<div class="row">
 		<div class="span6">
 			<div class="home-post">
