@@ -400,6 +400,28 @@ header .logo {
 	-moz-box-shadow: none;
 	-o-box-shadow: none;
 }
+#sec-flexslider ul.slides li p {
+	font-size: 72px;
+	text-transform: uppercase;
+	position: relative;
+	margin-bottom: 0px;
+	text-align: center;
+	
+	color:#fff;
+}
+#sec-flexslider.flexslider {
+		margin:0;
+		background:none;
+		border:none;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	-o-border-radius: 0;
+	border-radius: 0;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-o-box-shadow: none;
+}
 
 
 

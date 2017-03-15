@@ -400,6 +400,28 @@ header .logo {
 	-moz-box-shadow: none;
 	-o-box-shadow: none;
 }
+#sec-flexslider ul.slides li p {
+	font-size: 72px;
+	text-transform: uppercase;
+
+	margin-bottom: 5px;
+	text-align: center;
+	
+	color:#000;
+}
+#sec-flexslider.flexslider {
+		margin:0;
+		background:#000;
+		border:none;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	-o-border-radius: 0;
+	border-radius: 0;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-o-box-shadow: none;
+}
 
 
 
@@ -881,7 +903,7 @@ section#about {
 }
 
 .team-thumb {
-	margin-top: 26px;
+	margin-top: 15px;
 	text-align:center;
 }
 
