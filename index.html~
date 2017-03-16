@@ -627,6 +627,7 @@ $(document).ready(function() {
 <section id="events" class="section">
 <div class="container">
 	<h4>Events</h4>
+	<h3 align="center">7 & 8 April</h3>
 	<!-- Three columns -->
 	<div class="row">
 		<div class="span4" data-toggle="modal" data-target="#modal-1">
@@ -720,12 +721,11 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span><strong>Skit</strong></span>
+					<span><strong>Green Latern</strong></span>
 				</div>
 				<div class="entry-content">
-					<h5><strong><a href="#">EN(ergy)ACT</a></strong></h5>
-					<br>
-					<h5>Actions speak better then words</h5>
+					<h5><strong>Green Building Design</strong></h5>
+					<br><br>
 					
 				</div>
 			</div>
@@ -774,7 +774,7 @@ $(document).ready(function() {
       					<div class="modal-content">
         						<div class="modal-header">
           						
-          						<h4 class="modal-title">Advertisement</h4>
+          						<h4 class="modal-title">TechShop</h4>
         						</div>
         						<div class="modal-body">
           						<p>Some text in the modal.</p>
@@ -789,16 +789,13 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span><strong>Advertisement</strong></span>	
+					<span><strong>	Advertisement</strong></span>	
 					
 				</div>
 				<div class="entry-content">
 					
-					<h5>
-						<strong>Energy</strong> can neither be <strong>created</strong><br>
-						nor be <strong>destroyed</strong><br>
-						but can be <strong>sold</strong><br>
-					</h5>
+					<h5><strong>Market Your Product</strong></h5>
+					<h5>Energy can neither be Created nor ne Destroyed, but it can be SOLD!!!</h5>
 				</div>
 			</div>
 		</div>
@@ -811,7 +808,7 @@ $(document).ready(function() {
       					<div class="modal-content">
         						<div class="modal-header">
           						
-          						<h4 class="modal-title">Poster Presentation</h4>
+          						<h4 class="modal-title">Pasten It</h4>
         						</div>
         						<div class="modal-body">
           						<p>Some text in the modal.</p>
@@ -826,11 +823,10 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span><strong>Poster Presentation</strong></span>	
+					<span><strong>Pasten It</strong></span>	
 				</div>
 				<div class="entry-content">
-					<h5>Result is <strong>WONDER </strong>when <strong>SCIENCE</strong> and <strong>ART</strong> merges.</h5>
-					
+					<h5><strong>Poster Presentation</strong></h5>
 				</div>
 			</div>
 		</div>
@@ -843,7 +839,7 @@ $(document).ready(function() {
       					<div class="modal-content">
         						<div class="modal-header">
           						
-          						<h4 class="modal-title">Real Time Solution</h4>
+          						<h4 class="modal-title">IMPROMPTU</h4>
         						</div>
         						<div class="modal-body">
           						<p>Some text in the modal.</p>
@@ -858,14 +854,12 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span><strong>Real Time Solution</strong></span>
+					<span><strong>IMPROMPTU</strong></span>
 					
 				</div>
 				<div class="entry-content">
-					<h5>
-						Not everything that is faced can be changed but nothing can be charged 
-						until it is forced things turn out for people who make the best out of the way turn out.
-					</h5>
+					<h5><strong>Real Time Problem Solving</strong></h5>
+					<h5>Invention is the mother of necessity</h5>
 				</div>
 			</div>
 		</div>	
@@ -881,7 +875,7 @@ $(document).ready(function() {
       					<div class="modal-content">
         						<div class="modal-header">
           						
-          						<h4 class="modal-title">Quiz</h4>
+          						<h4 class="modal-title">Buzzerrr</h4>
         						</div>
         						<div class="modal-body">
           						<!--p>Some text in the modal.</p-->
@@ -897,12 +891,10 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					<i class="icon-file icon-2x"></i>
-					<span><strong>Quiz...</strong></span>
+					<span><strong>Buzzerrr</strong></span>
 				</div>
 				<div class="entry-content">
-					<h5>
-						We get stuck into the Internet and streaming information and its time to just unplug and look within
-					</h5>
+					<h5><strong>Quiz</strong></h5>
 				</div>
 			</div>
 		</div>
@@ -919,7 +911,7 @@ $(document).ready(function() {
 <section id="workshop" class="section orange">
 <div class="container">
 	<h4>Workshops</h4>
-	
+	<h3 align="center">5 & 6 April</h3>
 	
 	<div class="row">
 		<div class="span4">
@@ -962,6 +954,7 @@ $(document).ready(function() {
 	<h4>Guest Lectures</h4>
 	
 	<div class="row">
+		<div class="span4"></div>
 		<div class="span4">
 		
 			<div class="home-post">
@@ -973,6 +966,7 @@ $(document).ready(function() {
 				</div>
 			</div>
 		</div>
+		<div class="span4"></div>
 	</div>
 	
 	
@@ -982,10 +976,11 @@ $(document).ready(function() {
 <!-- section: registration -->
 <section id="reg" class="section">
 <div class="container clearfix" align="center">
-	<h1>Registration and Accommodation</h1>
+	<h1>Registration</h1>
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdLjmGBGM-AKxLuZmVjzsiDPkjoxbRQA31qmyCL2eImidrznA/viewform?usp=sf_link">
-		<button type="button" class="btn btn-danger">Energeia'17 Registration here</button><br><br>
+		<button type="button" class="btn btn-danger">Energeia'17 Registration here</button>
 	</a>
+	<h3>Registration at PR Desk is compulsory.</h3>
 	<div class="row">
 		<div class="span6">
 			<div class="home-post">
@@ -995,8 +990,8 @@ $(document).ready(function() {
 					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
 				</div>
 				<div class="entry-content">
-					<h5><strong>Last date for Registration</strong></h5>
-					<h5><strong><a href="#">08/04/2017</a></strong></h5>
+					<h5><strong>Last date for Online Registration</strong></h5>
+					<h5><strong><a href="#">03/04/2017</a></strong></h5>
 					<br>
 									
 				</div>
@@ -1023,10 +1018,14 @@ $(document).ready(function() {
 
 <!--end of row div-->
 	
-	<h3>Accommodation will be provided on requisition and paid basis</h3>
+	<h1>Accommodation</h1>
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLScbTFJTfQ2WcVZAvQZlCKYaKPB7B0lpZdWqa7nS9_f2SXc9PA/viewform?usp=sf_link">
-		<button type="button" class="btn btn-danger">Accommodation Registration</button><br><br>
+		<button type="button" class="btn btn-danger">Accommodation Registration</button>
 	</a>
+	<a href="documents/accmodation.pdf" >
+	<button type="button" class="btn btn-info">Details</button>
+	</a>
+	<h3>Registration at PR Desk is compulsory.</h3>
 	
 		<div class="span11">
 			<div class="home-post">
@@ -1037,12 +1036,12 @@ $(document).ready(function() {
 				</div>
 				<div class="entry-content">
 					<h5>Department of Energy and Environment (DEE). NIT TRICHY</h5>
-					<h5>Date : April 8. 2017</h5>
-					<h5>Time : 9:00 AM to 5:30 PM</h5>				
+					<h5>Date : 5 - 8 April 2017</h5>
+					<h5>Time : 8:00 AM to 5:30 PM</h5>				
 				</div>
 			</div>
 		</div>
-	
+	<a href="documents/accmodation.pdf"><button type="button" class="btn btn-link">How to Reach?</button>      
 	
 	<div class="row">
 		<div class="span12">
