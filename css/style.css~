@@ -403,15 +403,15 @@ header .logo {
 #sec-flexslider ul.slides li p {
 	font-size: 72px;
 	text-transform: uppercase;
-
-	margin-bottom: 5px;
+	position: relative;
+	margin-bottom: 0px;
 	text-align: center;
 	
-	color:#000;
+	color:#fff;
 }
 #sec-flexslider.flexslider {
 		margin:0;
-		background:#000;
+		background:none;
 		border:none;
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
@@ -501,7 +501,7 @@ section.spacer {
 }
 
 .spacer.green,.section.green {
-	background:#f68529ff;
+	background:#ffe873;
 }
 
 .spacer.green,.section.green h4 {
