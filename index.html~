@@ -302,7 +302,7 @@ $(document).ready(function() {
 	<h4>Team</h4>
 	<!-- Four columns -->
 	<div class="row">
-		<div class="span2 offset1 flyIn">
+		<div class="span2 flyIn">
 			<div class="people">
 				<img class="team-thumb img-circle" src="img/team/chetan.jpg" alt="" />
 				<h3>Chetan</h3>
