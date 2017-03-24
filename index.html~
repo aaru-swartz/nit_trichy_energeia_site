@@ -641,10 +641,11 @@ $(document).ready(function() {
 				<div class="post-meta">
 					<h3 align="center">Renewable Energy Sources<br>&<br>Its technological Advancements</h3>
 				</div>
-				<div class="entry-content">
-					Details coming soon
-
-				</div>
+				<a href="documents/workshop/Renewable Energy.pdf">
+					<div class="entry-content">
+						More details
+					</div>
+				</a>
 			</div>
 		</div>
 		<div class="span4">
@@ -653,9 +654,11 @@ $(document).ready(function() {
 				<div class="post-meta">
 					<h3 align="center"><strong>Go Solar</strong> <br><br>(Design of<br>Solar Mobile charger)</h3>
 				</div>
-				<div class="entry-content">
-					Details coming soon
-				</div>
+				<a href="/documents/workshop/Go Solar.pdf">	
+					<div class="entry-content">
+						More details
+					</div>
+				</a>
 			</div>
 		</div>
 		<div class="span4">
@@ -664,9 +667,11 @@ $(document).ready(function() {
 				<div class="post-meta">
 					<h3 align="center"><strong>Computational Fluid Dynamics</strong><br><br>(CFD)</h3>
 				</div>
-				<div class="entry-content">
-					Details coming soon
-				</div>
+				<a href="/documents/workshop/CFD workshop.pdf">
+					<div class="entry-content">
+						More details
+					</div>
+				</a>
 			</div>
 		</div>
 	</div>
@@ -757,9 +762,6 @@ $(document).ready(function() {
 		
 			<ul>
 				<li>
-				 To register for accommodation during ENERGEIA’17, fill in 
-			 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSfToMyDPEZHZug5pXwutTwAjOxCmNiI-LvrcvG1i8Kp0H0HSQ/viewform">
-				 this accommodation registration  form</a>.<br>
 				The deadline for registration is 3rd April, 2017.
 				</li>
 				<li>
@@ -845,15 +847,15 @@ $(document).ready(function() {
 						</div>
 						
 						<div class="span3">
-							<i class="fa fa-address-book-o"> </i>  Muthiah.G<br><br>
-							<i class="fa fa-phone"></i><strong> +91 96265 11395</strong><br><br>
+							<big><big><i class="fa fa-address-book-o"> </i>  Muthiah.G</big></big><br><br>
+							<big><i class="fa fa-phone"></i><strong> +91 96265 11395</strong></big><br><br>
 							
 						</div>
 						<div class="span2">
 						</div>
 						<div class="span2">
-							<i class="fa fa-address-book-o"> </i>  Mahesh.S<br><br>
-							<i class="fa fa-phone"></i><strong> +91 94976 79458</strong><br><br>
+							<big><big><i class="fa fa-address-book-o"> </i>  Mahesh.S</big></big><br><br>
+							<big><i class="fa fa-phone"></i><strong> +91 94976 79458</strong></big><br><br>
 							
 						</div>
 						
