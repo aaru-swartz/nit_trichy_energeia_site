@@ -119,7 +119,13 @@
         height: 20px;
     }
 }
-
+@font-face{
+		font-family: "energeiaFont";
+		src:url("font/brand/LIGHRG.ttf");
+}
+.brand{
+	font-family:"energeiaFont";
+}
 
 </style>
 
@@ -151,7 +157,7 @@ $(document).ready(function() {
 				<!-- Responsive navbar -->
 				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
 				</a>
-				<h1 class="brand"><a href="index.html"><strong>Energeia'17</strong></a></h1>
+				<h1 class="brand"><a href="index.html">Energeia'17</a></h1>
 				<!-- navigation -->
 				<nav class="pull-right nav-collapse collapse">
 				<ul id="menu-main" class="nav">
@@ -473,8 +479,12 @@ $(document).ready(function() {
 <!-- section: events -->
 <section id="events" class="section">
 <div class="container">
-	<h4>Events</h4>
-	<h3 align="center">7<sup>th</sup> & 8<sup>th</sup> April</h3>
+	<div class="row">
+	
+		<h4>Events</h4>
+		
+	</div> 
+	<h3 align="center">7<sup>th</sup> & 8<sup>th</sup> April  <strong>(Cash Prize ₹ 40,000)</strong></h3>
 	<!-- Three columns -->
 	<div class="row">
 		
@@ -489,14 +499,13 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					
-					<span><strong>Ingenious Paper</strong></span>
+					<h3>Ingenious Paper</h3>
 					
 					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
 				</div>
 				<div class="entry-content">
 					<h5><strong>Paper Presentation</strong></h5>
-					<h5><strong>A </strong>bst<strong> R </strong>ac<strong> T </strong> </h5>
-					<h5>Why your topic is important?</h5>					
+					
 				</div>
 			</div>
 			</a>
@@ -511,11 +520,10 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					
-					<span><strong>Green Lantern</strong></span>
+					<h3>Green Lantern</h3>
 				</div>
 				<div class="entry-content">
 					<h5><strong>Green Building Design</strong></h5>
-					<br><br>
 					
 				</div>
 			</div>
@@ -528,13 +536,12 @@ $(document).ready(function() {
 					<img class="max-img" src="img/blog/debate.jpg" alt="" />
 				</div>
 				<div class="post-meta">
-					
-					<span><strong>ENERGetic Parliament</strong></span>
+					<h3>Energetic Parliament</h3>
 					
 				</div>
 				<div class="entry-content">
 					<h5><strong>Debate</strong></h5>
-					<h5>Now its your turn to help shape the <strong>Debate</strong>.</h5>
+				
 				</div>
 			</div>
 			</a>
@@ -550,13 +557,13 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					
-					<span><strong>	TechShop</strong></span>	
+					<h3>TechShop</h3>	
 					
 				</div>
 				<div class="entry-content">
 					
 					<h5><strong>Advertisement</strong></h5>
-					<h5>Energy can neither be Created nor ne Destroyed, but it can be SOLD!!!</h5>
+				
 				</div>
 			</div>
 			</a>
@@ -570,7 +577,7 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					
-					<span><strong>Pasten It!!!</strong></span>	
+					<h3>Pasten It!!!</h3>	
 				</div>
 				<div class="entry-content">
 					<h5><strong>Poster Presentation</strong></h5>
@@ -587,12 +594,12 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					
-					<span><strong>IMPROMPTU</strong></span>
+					<h3>Impromtu</h3>
 					
 				</div>
 				<div class="entry-content">
 					<h5><strong>Real Time Problem Solving</strong></h5>
-					<h5>Invention is the mother of necessity</h5>
+					
 				</div>
 			</div>
 		</a>
@@ -610,7 +617,7 @@ $(document).ready(function() {
 				</div>
 				<div class="post-meta">
 					
-					<span><strong><strong>Buzzerrr...</strong></strong></span>
+					<h3>Buzzerrr...</h3>
 				</div>
 				<div class="entry-content">
 					<h5><strong>Quiz</strong></h5>
@@ -654,7 +661,7 @@ $(document).ready(function() {
 				<div class="post-meta">
 					<h3 align="center"><strong>Go Solar</strong> <br><br>(Design of<br>Solar Mobile charger)</h3>
 				</div>
-				<a href="/documents/workshop/Go Solar.pdf">	
+				<a href="documents/workshop/Go Solar.pdf">	
 					<div class="entry-content">
 						More details
 					</div>
@@ -667,7 +674,7 @@ $(document).ready(function() {
 				<div class="post-meta">
 					<h3 align="center"><strong>Computational Fluid Dynamics</strong><br><br>(CFD)</h3>
 				</div>
-				<a href="/documents/workshop/CFD workshop.pdf">
+				<a href="documents/workshop/CFD workshop.pdf">
 					<div class="entry-content">
 						More details
 					</div>

@@ -206,7 +206,7 @@ h2 {
 }
 h3 {
 	font-size: 26px;
-	margin-bottom:20px;
+	margin-bottom:2px;
 }
 h4 {
 	font-size: 22px;
@@ -501,7 +501,7 @@ section.spacer {
 }
 
 .spacer.green,.section.green {
-	background:#ffe873;
+	background:#f36f36;
 }
 
 .spacer.green,.section.green h4 {
@@ -822,9 +822,12 @@ section#events {
 	font-size:13px;
 }
 .home-post .post-meta {
-	padding:20px;
+	padding:10px;
 	overflow:hidden;
 	color:#fcfcfc;
+}
+.post-meta{
+	
 }
 .home-post .post-meta i {
 	float:left;
