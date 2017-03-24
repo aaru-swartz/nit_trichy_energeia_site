@@ -631,7 +631,7 @@ $(document).ready(function() {
 	
 	</div>
 	<!-- row end-->
-	<h4 align="center">and much more</h4>
+	<h4 align="center">and much more fun events !!!</h4>
 </div>
 </section>
 
@@ -659,7 +659,7 @@ $(document).ready(function() {
 		
 			<div class="home-post">
 				<div class="post-meta">
-					<h3 align="center"><strong>Go Solar</strong> <br><br>(Design of<br>Solar Mobile charger)</h3>
+					<h3 align="center"><strong>GO Solar</strong> <br><br>(Design of<br>Solar Mobile charger)</h3>
 				</div>
 				<a href="documents/workshop/Go Solar.pdf">	
 					<div class="entry-content">
@@ -840,7 +840,10 @@ $(document).ready(function() {
 <section id="contact" class="section green">
 	<div class="container">
 		<h4>Get in Touch</h4><br>
-	
+			<h3 align="center">Like us on 
+			<a href="https://www.facebook.com/energeiaNITT">
+			<i class="fa fa-facebook fa-2x">
+		</i></a></h3><br>
 		<div class="row">
 		
 						<div class="span2">
@@ -868,7 +871,7 @@ $(document).ready(function() {
 						
 		</div>
 		<!--end of row-->
-		<h3 align="center"><i class="fa fa-envelope"></i>energeia17@gmail.com</h3>
+		<h3 align="center"><i class="fa fa-envelope"></i>energeia17@gmail.com     </h3>
 	</div>
 	<!--end of container-->
 	
