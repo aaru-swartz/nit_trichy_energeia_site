@@ -739,18 +739,39 @@ $(document).ready(function() {
 					<!--span class="tags"><a href="#">Design</a>, <a href="#">Events</a></span-->
 				</div>
 				<div class="entry-content">
-					<h5>₹ <strong>200</strong> for students</h5>
-					<h5>₹ <strong>300</strong> for others</h5>
-					<h5>mode of payment: <strong>cash on spot</strong></h5>
+					<h5>₹ <strong>200</strong> for Students</h5>
+					<h5>₹ <strong>300</strong> for Others</h5>
+					<h5>Mode of Payment: <strong>cash on spot</strong></h5>
 					
 				</div>
 			</div>
 		</div>
-		
+	</div>
+<!--end of row div-->
+	<div class="home-post">
+			<div class="post-meta">
+				<h3>Instructions</h3>
+			</div>
+			<div class="entry-content">
+				<h3>Registration fee is charged for participating in the Events alone.</h3>
+				<h3>Students attending only Workshops need not pay the registration fee.</h3>
+				<div align="center justify">
+					<ul>
+						<li>Online Registered participants can pay the registration fee of INR 200 at 
+						the PR desk available during ENERGEIA’17 on 7th and 8th April, 2017.</li>
+						<li>Students participating in ENERGEIA’2017 without Online Registration 
+						(Spot Registration) will be charged INR 250.</li>
+						<li>After registering a student can participate in all the events mentioned in the website.</li>
+						<li>We may charge a small amount for On the spot fun events conducted during ENERGEIA’17.</li>
+						<li><strong>Research Scholars and Industrialists</strong> can also participate in ENERGEIA’17 after paying a 
+						Registration Fee of INR 300 for Online Registered participants and INR 350 for participants opting Spot Registration.</li>
+					</ul>
+				</div>
+			</div>
 	</div>
 	
 
-<!--end of row div-->
+
 	
 	<h1><big>Accommodation</big></h1>
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLScbTFJTfQ2WcVZAvQZlCKYaKPB7B0lpZdWqa7nS9_f2SXc9PA/viewform?usp=sf_link">
