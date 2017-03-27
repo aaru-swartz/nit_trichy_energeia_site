@@ -755,7 +755,7 @@ $(document).ready(function() {
 			<div class="entry-content">
 				<h3>Registration fee is charged for participating in the Events alone.</h3>
 				<h3>Students attending only Workshops need not pay the registration fee.</h3>
-				<div align="center justify">
+				<div align="justify">
 					<ul>
 						<li>Online Registered participants can pay the registration fee of INR 200 at 
 						the PR desk available during ENERGEIA’17 on 7th and 8th April, 2017.</li>
@@ -793,7 +793,7 @@ $(document).ready(function() {
 				The deadline for registration is 3rd April, 2017.
 				</li>
 				<li>
-				 Accommodation fee is <u>Rs.200 for the first day</u> and <u>Rs.50 per day for the subsequent days</u>.
+				 Accommodation fee is <u>Rs.200 for the first day</u> and <u>Rs.100 per day for the subsequent days</u>.
 				</li>
 				<li>
 				 A <strong>REFUNDABLE</strong> caution deposit of Rs.100 will be collected from the participant <br>and will be
