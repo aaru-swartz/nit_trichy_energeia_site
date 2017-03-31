@@ -398,7 +398,9 @@ $(document).ready(function() {
 	<h4>Sponsorship</h4>
 	<!-- portfolio filter -->
 	<div class="row">
-		
+			<div class='col-md-offset-2 col-md-8'>
+			<img src="img/sponsors/tetewood.png" alt="">
+			</div>
 		<!-- END PORTFOLIO FILTERING -->
 	</div>
 	
@@ -663,7 +665,7 @@ $(document).ready(function() {
 				</div>
 				<a href="documents/workshop/Go Solar.pdf">	
 					<div class="entry-content">
-						More details
+						Rules have been updated. Click for More details.
 					</div>
 				</a>
 			</div>
